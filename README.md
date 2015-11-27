@@ -21,3 +21,14 @@ test # 0
   test # 1
     test # 2
 ```
+
+asdf
+----
+```rb
+tag("html")
+  .tag("div")
+    .tag("div")
+  .tag("div")
+    .tag("div")
+      .tag("div")
+```
