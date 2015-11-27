@@ -9,7 +9,8 @@ gem install get_indent
 puts __indent__ # 0
   puts __indent__ # 1
     puts __indent__ # 2
-    
+```
+```rb
 def test
   puts __indent__ # 1
   
