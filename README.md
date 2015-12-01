@@ -14,7 +14,7 @@ puts __indent__ # 0
 def test
   puts __indent__ # 1
   
-  return __indent_of_caller
+  return __indent_of_caller__
 end
 
 test # 0
